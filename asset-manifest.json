@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.ce16e837.css",
-    "main.js": "/profile/static/js/main.555bc457.js",
-    "static/js/787.1ed0c42c.chunk.js": "/profile/static/js/787.1ed0c42c.chunk.js",
-    "static/media/onedrop.png": "/profile/static/media/onedrop.fa7ccbe5f99b1def8b1b.png",
-    "static/media/inrelay.png": "/profile/static/media/inrelay.b90f5d7d9c69b7cc589e.png",
-    "static/media/SBNRI.png": "/profile/static/media/SBNRI.d893ab77239edffcfbd1.png",
-    "static/media/home-main.svg": "/profile/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/profile/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/TarrakkiAPIs.png": "/profile/static/media/TarrakkiAPIs.802f53b13c878ab0571e.png",
-    "static/media/Tarrakki.png": "/profile/static/media/Tarrakki.f4e98ab6d4f454789807.png",
-    "static/media/Elevo.png": "/profile/static/media/Elevo.35c992c02a1194db9b7e.png",
-    "static/media/BhavikDarjiResume2022.pdf": "/profile/static/media/BhavikDarjiResume2022.01b6c38d9acb2dcb1d9a.pdf",
-    "static/media/home-bg.jpg": "/profile/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/profile/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/profile/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/profile/index.html",
-    "main.ce16e837.css.map": "/profile/static/css/main.ce16e837.css.map",
-    "main.555bc457.js.map": "/profile/static/js/main.555bc457.js.map",
-    "787.1ed0c42c.chunk.js.map": "/profile/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.94472b18.css",
+    "main.js": "/portfolio/static/js/main.41242d65.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/onedrop.png": "/portfolio/static/media/onedrop.fa7ccbe5f99b1def8b1b.png",
+    "static/media/inrelay.png": "/portfolio/static/media/inrelay.b90f5d7d9c69b7cc589e.png",
+    "static/media/SBNRI.png": "/portfolio/static/media/SBNRI.d893ab77239edffcfbd1.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/TarrakkiAPIs.png": "/portfolio/static/media/TarrakkiAPIs.802f53b13c878ab0571e.png",
+    "static/media/Tarrakki.png": "/portfolio/static/media/Tarrakki.f4e98ab6d4f454789807.png",
+    "static/media/Elevo.png": "/portfolio/static/media/Elevo.35c992c02a1194db9b7e.png",
+    "static/media/BhavikDarjiResume2022.pdf": "/portfolio/static/media/BhavikDarjiResume2022.01b6c38d9acb2dcb1d9a.pdf",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.94472b18.css.map": "/portfolio/static/css/main.94472b18.css.map",
+    "main.41242d65.js.map": "/portfolio/static/js/main.41242d65.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce16e837.css",
-    "static/js/main.555bc457.js"
+    "static/css/main.94472b18.css",
+    "static/js/main.41242d65.js"
   ]
 }
